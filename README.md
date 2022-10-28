@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Warren
 - 👀 I’m interested in programming video games
-- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
 
