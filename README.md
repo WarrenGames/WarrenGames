@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WarrenGames
+- 👋 Hi, I’m @Warren
 - 👀 I’m interested in programming video games
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...
