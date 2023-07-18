@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Warren
-- 👀 I’m interested in programming video games
+- 👀 I’m interested in programming video games.
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
+- Check my web site for more informations about my games and other drm free graphisms for your games.
 
 <!---
 WarrenGames/WarrenGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
