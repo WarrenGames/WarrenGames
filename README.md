@@ -3,7 +3,7 @@
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
 - Check out my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
 
-- There is new releases of Bob the blob binaries since the 18 may 2024.
+- There are new releases of Bob the blob binaries since the 18 may 2024.
 
 - Discover the new 'Bob the blob' game branch named 'devWithAllLibs' that is more convenient to compile (you don't need the 'WarrenCustomLibs' repository as a dependency). The libraries inside WarrenCustomLibs that were needed to Bob the Blob has been included inside the branch 'devWithAllLibs' of Bob the Blob.
 - Discover the new 'Breakout4' game branch named 'devWithAllLibs' that is more convenient to compile (you don't need the 'WarrenCustomLibs' repository as a dependency). The libraries inside WarrenCustomLibs that were needed to Breakout4 has been included inside the branch 'devWithAllLibs' of Breakout4.
