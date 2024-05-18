@@ -5,6 +5,8 @@
 
 - There are new releases of Bob the blob binaries since the 18 may 2024.
 
+- I changed the new default branches to 'devWithAllLibs' for the following repositories: 'Bob the blob', 'Breakout4' and 'SDL2-WarrenTetris'.
+
 - Discover the new 'Bob the blob' game branch named 'devWithAllLibs' that is more convenient to compile (you don't need the 'WarrenCustomLibs' repository as a dependency). The libraries inside WarrenCustomLibs that were needed to Bob the Blob has been included inside the branch 'devWithAllLibs' of Bob the Blob.
 - Discover the new 'Breakout4' game branch named 'devWithAllLibs' that is more convenient to compile (you don't need the 'WarrenCustomLibs' repository as a dependency). The libraries inside WarrenCustomLibs that were needed to Breakout4 has been included inside the branch 'devWithAllLibs' of Breakout4.
 - Discover the new 'SDL2-WarrenTetris' game branch named 'devWithAllLibs' that is more convenient to compile (you don't need the 'WarrenCustomLibs' repository as a dependency). The libraries inside WarrenCustomLibs that were needed to SDL2-WarrenTetris has been included inside the branch 'devWithAllLibs' of this same repository.
