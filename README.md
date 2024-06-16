@@ -3,7 +3,7 @@
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
 - Check out my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
 
-- There are new releases of Bob the blob binaries since june 16 2024.
+- There are new releases of the Bob the blob binaries and source code since june 16 2024.
 
 - I changed the new default branches to 'devWithAllLibs' for the following repositories: 'Bob the blob', 'Breakout4' and 'SDL2-WarrenTetris'. These branches are more convenient when you want to compile the source because you don't need my 'warrenCustomLibs' repository since all needed libraries are already included in the devWithAllLibs branches.
 
