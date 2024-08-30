@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Warren
 - 👀 I’m interested in programming video games.
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
+
+- Breakout4 repository has been update (a bug that came when running cmake has been fixed).
+
 - Discover my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
 
 - There are new releases of the Bob the blob binaries and the source code since july 28 2024 (version 0.1.11). A joystick support has been added.
