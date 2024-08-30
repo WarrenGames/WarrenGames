@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming video games.
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
 
-- Breakout4 repository has been update (a bug that came when running cmake has been fixed).
+- Breakout4 repository has been updated (a bug that came when running cmake has been fixed).
 
 - Discover my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
 
