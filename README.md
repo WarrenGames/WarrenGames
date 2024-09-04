@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming video games.
 - 📫 How to reach me 'antoine.f1987@ant01.fr'
 
-- A bug in sdl2_wrapper library has been fixed (in the files 'boxEvent.h' and 'boxEvent.cpp'). See changes
+- A bug in sdl2_wrapper library has been fixed (in the files 'boxEvent.h' and 'boxEvent.cpp'). See changes.txt at the root dir for more details.
 
 - Breakout4 repository has been updated (a bug that came when running cmake has been fixed).
 
