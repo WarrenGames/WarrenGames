@@ -2,6 +2,8 @@
 - 👀 I’m interested in programming video games.
 - 📫 How to reach me 'antoine.f1987@ant01.fr' or my youtube channel : 'https://www.youtube.com/@thegamesofthewarren4789' to see some screencasts of my games.
 
+- Check the Breakout4 2024 - 09 (september) release with a bug fix and a more friendly interface.
+
 - A bug in sdl2_wrapper library has been fixed (in the files 'boxEvent.h' and 'boxEvent.cpp'). See changes.txt at the root dir for more details.
 
 - Breakout4 repository has been updated (a bug that came when running cmake has been fixed).
