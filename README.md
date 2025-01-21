@@ -4,7 +4,7 @@
 
 - Source code links have been updated in both Breakout4 and Bob the blob releases.
 
-- The breakout4 code has been update the October 15th 2024.
+- The breakout4 code has been updated the October 15th 2024.
 
 - The breakout4 has been updated (code and 1440x1080 releases) the september 29th 2024. Some levels that caused segfault have been fixed.
 
