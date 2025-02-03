@@ -4,17 +4,7 @@
 
 - February 2nd 2025 update for Breakout4: some changes like a Wiki/Help section in the game, for a better understanding of the mechanisms of the game.
 
-- The breakout4 code has been updated the October 15th 2024.
-
-- The breakout4 has been updated (code and 1440x1080 releases) the september 29th 2024. Some levels that caused segfault have been fixed.
-
-- A bug in sdl2_wrapper library has been fixed (in the files 'boxEvent.h' and 'boxEvent.cpp'). See changes.txt at the root dir for more details.
-
-- Breakout4 repository has been updated (a bug that came when running cmake has been fixed).
-
 - Discover my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
-
-- There are new releases of the Bob the blob binaries and the source code since july 28 2024 (version 0.1.11). A joystick support has been added.
 
 - I changed the new default branches to 'devWithAllLibs' for the following repositories: 'Bob the blob', 'Breakout4' and 'SDL2-WarrenTetris'. These branches are more convenient when you want to compile the source because you don't need my 'warrenCustomLibs' repository since all needed libraries are included already in the devWithAllLibs branches.
 
