@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Warren
-- 👀 I’m interested in programming video games and making games graphisms.
+- 👀 I’m interested in programming video games and making game graphisms.
 - 📫 How to reach me 'antoine.f1987@ant01.fr' or my youtube channel : 'https://www.youtube.com/@thegamesofthewarren4789' to see some screencasts of my games.
 
 - Source code links have been updated in both Breakout4 and Bob the blob releases.
