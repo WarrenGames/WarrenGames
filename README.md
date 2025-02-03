@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Warren
 - 👀 I’m interested in programming video games and making game graphisms.
-- 📫 How to reach me 'antoine.f1987@ant01.fr' or my youtube channel : 'https://www.youtube.com/@thegamesofthewarren4789' to see some screencasts of my games.
+- 📫 How to reach me 'antoine.f1987@ant01.fr' or my youtube channel : 'https://www.youtube.com/@thegamesofthewarren4789' to see some screencasts of my games. My itch.io account : 'https://warrengames.itch.io/' if you are looking for games assets/textures, you might be interested.
 
-- Source code links have been updated in both Breakout4 and Bob the blob releases.
+- 2025-02-02 update for Breakout4: some changes like a Wiki/Help section in the game to help you understand better the mechanisms of the game.
 
 - The breakout4 code has been updated the October 15th 2024.
 
