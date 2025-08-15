@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming video games and making games graphisms.
 - 📫 How to reach me 'antoine.f1987@ant01.fr' or my youtube channel : 'https://www.youtube.com/@thegamesofthewarren4789' to see some screencasts of my games. My itch.io account : 'https://warrengames.itch.io/' if you are looking for games assets/textures, you might be interested.
 
-- A new game is added. This is a memory game programmed with the C++ language (see meomry-cpp repository for more details). The difference with the C language version is that there is 2 themes of cards, the traditionnal 70s game vignettes and new vignettes made with the POVRay raytracer.
+- A new game was added. This is a memory game programmed with the C++ language (see meomry-cpp repository for more details). The difference with the C language version is that there is 2 themes of cards, the traditionnal 70s game vignettes and new vignettes made with the POVRay raytracer.
 - February 2nd 2025 update for Breakout4: some changes like a Wiki/Help section in the game, for a better understanding of the mechanisms of the game.
 
 - Discover my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
