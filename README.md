@@ -4,7 +4,7 @@
 
 - Breakout4 game has been updated to version 0.1.6 ! The main change is the menu to play a specific level of the one player game (both campaigns). The demo recording mode now supports the spawning of fire balls and burning skulls (for 'hell' theme levels).
 
-- A new game was added. This is a memory game programmed with the C++ language (see meomry-cpp repository for more details). The difference with the C language version is that there is 2 themes of cards, the traditionnal 70s game vignettes and new vignettes made with the POVRay raytracer.
+- A new game was added. This is a memory game programmed with the C++ language (see memory-cpp repository for more details). The difference with the C language version is that there is 2 themes of cards, the traditionnal 70s game vignettes and new vignettes made with the POVRay raytracer.
 - February 2nd 2025 update for Breakout4: some changes like a Wiki/Help section in the game, for a better understanding of the mechanisms of the game.
 
 - Discover my web site for more informations about my games and other free graphisms without drm for your games : 'https://www.ant01.fr'
